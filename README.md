@@ -4,6 +4,7 @@ Este é um projeto lógico de banco de dados para um sistema de comércio eletr�
 O objetivo deste projeto é criar um banco de dados para gerenciar informações sobre vendedores, fornecedores, clientes, estoque, produtos, pedidos e pagamentos.
 
 Vendedores: A tabela vendedores armazena informações sobre cada vendedor, incluindo razão social, local, nome fantasia, CNPJ e CPF. Cada vendedor é identificado por um ID exclusivo (idVendedor).
+
 Fornecedores: A tabela fornecedores armazena informações sobre cada fornecedor, incluindo razão social, CNPJ e contato. Cada fornecedor é identificado por um ID exclusivo (idFornecedor).
 Clientes: A tabela clientes armazena informações sobre cada cliente, incluindo primeiro nome (Pnome), nome do meio (NomeMeio), sobrenome (Sobrenome), CPF, endereço e data de nascimento. Cada cliente é identificado por um ID exclusivo (idCliente).
 Estoque: A tabela estoque armazena informações sobre o estoque de produtos em diferentes locais. Cada registro inclui o local (Local) e a quantidade (Quantidade) de produtos disponíveis. Cada registro de estoque é identificado por um ID exclusivo (idEstoque).
